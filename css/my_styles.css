@@ -1,0 +1,38 @@
+h1 {color:rgb(82,239,0);
+    font-family:"roboto";}
+h2 {color: rgb(91, 44, 113);
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 500;
+    font-style: italic;
+    font-size:50px;}
+.p1{text-align: right;
+    font-family: "roboto",sans-serif;
+    font-weight: 200;
+    font-size: 19px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom:0px;
+    padding: 15px 15px;
+    width: 450px;
+    border-radius:15px;}
+.flushr h2{text-align: left;
+    color: #9c5050;}
+h3 {margin-left: 450px;color: rgb(255, 255, 255);
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 500;
+    font-style: italic;
+    font-size:50px;}
+    .articlep p{text-align: left;
+    font-family: "roboto",san-serif;
+    font-weight: 200;
+    font-size: 19px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 450px;
+    margin-top: px;
+    margin-bottom: 50px;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    width: 450px;
+    object-position:950px;}
+html{background-color: rgb(91, 44, 113);}
